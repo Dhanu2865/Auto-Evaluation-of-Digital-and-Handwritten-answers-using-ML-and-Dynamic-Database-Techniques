@@ -1,0 +1,7 @@
+sqlalchemy
+sentence-transformers
+scikit-learn
+nltk
+python-dotenv
+google-generativeai
+torch
